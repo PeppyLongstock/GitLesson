@@ -5,3 +5,4 @@ oranges are orange
 
 
 A lot of fun
+apples can be both
