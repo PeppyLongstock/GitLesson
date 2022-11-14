@@ -2,3 +2,6 @@
 * Сделать папку репозитория. git init
 * some stuff some more stuff
 oranges are orange
+
+
+A lot of fun
