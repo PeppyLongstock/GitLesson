@@ -1,8 +1,2 @@
 * Первым делом редставляемся гит. git config --global user.name username. и git config --global user.email email. 
-* Сделать папку репозитория. git init
-* some stuff some more stuff
-oranges are orange
-
-
-A lot of fun
-apples can be both
+Какая-то фразочка, например, oranges are orange
