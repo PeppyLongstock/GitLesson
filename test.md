@@ -38,4 +38,3 @@ git push -u origin main.
 , копируем оттуда ссылки git remote, 
 git push -u origin main
 
-
