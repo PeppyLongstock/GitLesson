@@ -26,4 +26,4 @@
 git remote add origin https://github.com/PeppyLongstock/GitLesson.git (ссылка конкретно на репозиторий, куда хотим загрузить)
 git branch -M main
 git push -u origin main.
-В результате наш репозиторий копируется на гитхаб. 
+В результате наш репозиторий копируется на гитхаб. Хотя пока чего-то идет не так...()
